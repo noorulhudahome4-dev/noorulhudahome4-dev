@@ -1,7 +1,7 @@
-<!-- Animated Header -->
+<!-- Animated Header (Purple Theme) -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Noor%20Ul%20Huda&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Noor%20Ul%20Huda&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <h2 align="center">👋 Hello, I'm Noor Ul Huda</h2>
@@ -37,36 +37,28 @@ That’s when I realized something important:
 
 ## 🧠 Growth & Exploration
 
-As I progressed:
-
-* 📌 In **8th grade**, I explored **Python, HTML, CSS**, and fundamentals of development
-* 📌 In **9th grade**, I completed an **AI-related course**, expanding my understanding of modern technology
-* 📌 Now in **10th grade**, I am focused on **DevOps** — aiming to master systems, automation, and cloud technologies
+* 📌 In **8th grade**, I explored **Python, HTML, CSS**, and development basics
+* 📌 In **9th grade**, I completed an **AI-related course**
+* 📌 Now in **10th grade**, I am focused on **DevOps**
 
 ---
 
 ## ⚡ Who I Am
 
-* 🧠 Curious by nature — always asking *how things work*
-* ⚡ Fast learner — adapting quickly to new tools and concepts
-* 🎯 Goal-driven — focused on becoming highly skilled
-* 🔄 Consistent — improving step by step, every day
-
-I’m not chasing shortcuts.
-I’m building **real understanding**.
+* 🧠 Curious
+* ⚡ Fast learner
+* 🎯 Goal-driven
+* 🔄 Consistent
 
 ---
 
 ## 🎯 Vision
 
-I aim to become someone who:
+To become someone who:
 
-* Builds **scalable and efficient systems**
-* Understands technology **deeply, not just superficially**
-* Can **learn, adapt, and teach others**
-
-Not just a developer —
-but a **complete problem solver in tech**.
+* Builds scalable systems
+* Understands tech deeply
+* Can learn & teach
 
 ---
 
@@ -75,15 +67,31 @@ but a **complete problem solver in tech**.
 * 🐧 Linux
 * 🐳 Docker
 * ☁️ Cloud (AWS)
-* 🔁 CI/CD Pipelines
-* ⚙️ DevOps fundamentals
+* 🔁 CI/CD
 
 ---
 
-<!-- Typing Animation -->
+<!-- Typing Animation (Purple Theme) -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Started+Early;Teaching+Since+School;Future+DevOps+Engineer;Learning+Without+Limits" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=BB86FC&center=true&vCenter=true&width=500&lines=Started+Early;Teaching+Since+School;Future+DevOps+Engineer;Learning+Without+Limits" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=noorulhudahome4-dev&show_icons=true&theme=tokyonight&hide_border=true&title_color=BB86FC&icon_color=BB86FC" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noorulhudahome4-dev&layout=compact&theme=tokyonight&hide_border=true&title_color=BB86FC" />
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=noorulhudahome4-dev&theme=tokyonight&hide_border=true&ring=BB86FC&fire=BB86FC&currStreakLabel=BB86FC" />
 </p>
 
 ---
@@ -92,28 +100,10 @@ but a **complete problem solver in tech**.
 
 > *I started early. I stayed consistent. And I’m just getting started.*
 
-> *Not here to follow trends — here to build real skills.*
-
 ---
 
-<!-- Footer -->
+<!-- Footer (Purple Theme) -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 </p>
-
-
-<!--
-**noorulhudahome4-dev/noorulhudahome4-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
